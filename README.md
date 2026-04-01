@@ -1,4 +1,4 @@
-# JAVA-PROJECT# JAVA.PROJECT
+#JAVA.PROJECT
 java project for vityarthi flipped course
 
 I have created a simple Banking system which consist of following things-
